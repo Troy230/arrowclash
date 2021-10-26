@@ -2,4 +2,24 @@ Final Project Idea Pitch - Eden Kendo-Pindi
 
 1. Game Idea:
 
-This game would be a scrolling-world game
+My idea of this game would be a scrolling-world game where you play as a swordsman with a certain amount of lives (not sure if I'll do lives or a healthbar); you lose lives by getting hit by arrows (0 lives would result to a "GAME OVER"); your goal is to defeat every enemy and the boss to win the game. The ideal controls would be: "A,S" to move left and right, "Q" to roll and "LMB" (left click) to slash/deflect arrows and kill enemies (might add jumping). 
+
+2. Characters and Scenario: 
+
+The player will be wielding a sword (or katana if I go the samurai route); if possible, I would have characters that you would unlock after meeting a certain requirement (very unlikely, selectable characters seem more doable). Every enemy will be different than the previous one in strength and looks (most likely will just be another color or slight adjustments).They would have different arrow types (again, not set in stone) and some of them cannot be deflected (you'd have to roll). The boss would have the fastest arrows and will occasionally shoot non-deflectable arrows (you'd be able to tell when he does that). He would also try to hit you with his greatsword whenever you're in distance (the move would have a cooldown and he'd be vulnerable after using it). I would like to create the characters and animations myself rather than take them from a site although I'm not certain if I will be able to learn to do this in time; the characters would ideally be in pixel art. I would heavily rely on the game "Dead Cells" for references in character design and animations. 
+
+The background would most likely be very simple due to my immense focus on the characters so what I have in mind is a plain blue sky with moving clouds (scrolling world aspect). If possible, the game would have a day/night cycle. The floor would be a dark color and take up about 10-15% of the screen (will most likely be a cheap imitation of Dead Cells' floor).
+
+3. Difficulties and Levels:
+
+The ideal state of this game would have three difficulties: Easy, Normal and Hard. The amount of lives (or health) varies depending on the difficulty; easy with the most amount of lives and hard with the least (will most likely be 1). The speed of the arrows and health of enemies will also vary depending on the difficulty. 
+
+I am most likely not going to add levels; however, if possible, I would like to add an "Unlimited" mode in the game where there is no win condition and the game would get more difficult everytime you defeat the boss. This idea is on the least of my priorities so it is most likely never going to be added unless I somehow manage to reach an ideal version of the game early. 
+
+4. Inspirations:
+
+Dead Cells, YouTube
+
+5. Teammates:
+
+Just looking for teammates that are invested in this project, provide ideas and contribute to this game. 
